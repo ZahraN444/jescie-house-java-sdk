@@ -8,7 +8,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>net.lolun</groupId>
   <artifactId>jescie-house-sdk</artifactId>
-  <version>1.2.0</version>
+  <version>1.2.2</version>
   <packaging>jar</packaging>
   <name>Jescie House SDK</name>
   <description>Sint libero pariatur</description>
