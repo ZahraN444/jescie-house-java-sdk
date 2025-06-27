@@ -6,13 +6,13 @@
 
 <project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>org.checkdeploymentzzz</groupId>
+  <groupId>io.github.zahran444</groupId>
   <artifactId>jescie-house-sdk</artifactId>
-  <version>1.5.3</version>
+  <version>1.5.5</version>
   <packaging>jar</packaging>
   <name>Jescie House SDK</name>
   <description>Sint libero pariatur</description>
-  <url>https://www.lolun.net</url>
+  <url>https://github.com/ZahraN444/jescie-house-java-sdk</url>
   <properties>
     <maven.compiler.source>1.8</maven.compiler.source>
     <maven.compiler.target>1.8</maven.compiler.target>
